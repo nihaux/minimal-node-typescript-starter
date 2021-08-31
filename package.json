@@ -1,0 +1,7 @@
+{
+  "name": "minimal-node-typescript-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nihau <nicolas.hauseux@gmail.com>",
+  "license": "MIT"
+}
