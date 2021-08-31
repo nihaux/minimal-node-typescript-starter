@@ -1,1 +1,1 @@
-Just typescript for node app.
+Minimal typescript + prettier + eslint for node
